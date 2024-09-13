@@ -1,34 +1,7 @@
 
-<style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0;
-        }
-        h1 {
-            font-size: 3em;
-            color: #3498db; /* Rangni o'zgartiring */
-            text-align: center;
-            white-space: nowrap;
-            overflow: hidden;
-            border-right: .15em solid orange;
-            animation: typing 3.5s steps(40, end), blink-caret .75s step-end infinite;
-        }
-        @keyframes typing {
-            from { width: 0 }
-            to { width: 20em }
-        }
-        @keyframes blink-caret {
-            from, to { border-color: transparent }
-            50% { border-color: orange; }
-        }
-    </style>
-
-<h1>Salom, Men Azamov Husanboyman</h1>
-<h3 align="center">Men O'zbekistonlik Backend dasturchisiman.</h3>
+<h1 >Salom, Mening ismim Husanboy</h1>
+<h3 align="center">👨🏻‍💻 Men O'zbekistonlik Backend dasturchisiman.</h3>
+<h3 align="center">🔭 Men o'z bilimlarimni o'shirishga intilaman</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
