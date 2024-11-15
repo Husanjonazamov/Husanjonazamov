@@ -1,3 +1,13 @@
+<p align="center">
+    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/django-339933?style=for-the-badge&logo=django&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
+    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/postgresql-00599C?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/mysql-030303?style=for-the-badge&logo=mysql&logoColor=ffffff" />
+    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
+</p>
 
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
@@ -9,17 +19,6 @@
 
 <hr>
 
-### Texnalogiyalar:
-<p align="center">
-    <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/django-339933?style=for-the-badge&logo=django&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
-    <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/postgresql-00599C?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/mysql-030303?style=for-the-badge&logo=mysql&logoColor=ffffff" />
-    <img src="https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=ffffff" />
-</p>
 
 ### GitHub status:
 <div align="center">
