@@ -15,10 +15,6 @@
     <img src="https://img.shields.io/badge/django-339933?style=for-the-badge&logo=django&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" />
     <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=ffffff" />
-</p>
-
-### Frameworklar:
-<p align="center">
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/postgresql-00599C?style=for-the-badge&logo=postgresql&logoColor=ffffff" />
     <img src="https://img.shields.io/badge/mysql-030303?style=for-the-badge&logo=mysql&logoColor=ffffff" />
@@ -31,19 +27,13 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Husanjonazamov&theme=radical" alt="GitHub Streak" />
 </div>
 
-### Yuqori Tillar:
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Husanjonazamov&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
-### Hozirda Qanday Loyihalar Ustida Ishlamoqdaman:
-- 🌟 **Django** va **FastAPI** yordamida backend dasturlash
-- 🌍 Kengaytiriladigan RESTful API'lar yaratish
-- 💾 **PostgreSQL** va **MySQL** bilan ma'lumotlar bazasini boshqarish
-- 🖥️ **Docker** va **CI/CD** orqali DevOps ko'nikmalarimni rivojlantirish
 
 
-### Get In Touch:
+### Menga Murojaat Qiling:
 <p align="center">
     <!-- Telegram -->
     <a href="https://t.me/Husanboy_Azamov" target="_blank">
